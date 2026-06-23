@@ -1,0 +1,10 @@
+venv/
+notebooks/
+data/raw/
+__pycache__/
+*.pyc
+.git/
+.ipynb_checkpoints/
+*.md
+check_setup.py
+api/test_forecaster.py
