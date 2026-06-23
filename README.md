@@ -1,4 +1,12 @@
-# APU Load Forecasting — 24-Hour Power Demand Prediction
+---
+title: APU Load Forecasting
+emoji: ⚡
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---                                                                                                                               # APU Load Forecasting — 24-Hour Power Demand Prediction
 
 A complete, end-to-end machine-learning system that forecasts electricity demand for a
 132KV transmission network (utility "APU") 24 hours ahead, at 10-minute resolution, and
