@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Throwaway / test scripts (not part of deliverable)
+check_setup.py
+api/test_forecaster.py
+
+# Raw data & weather cache — NOT needed at runtime (keep repo lean).
+# The app only needs data/processed/ and models/, which ARE committed.
+data/raw/
