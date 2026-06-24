@@ -42,6 +42,7 @@ which mirrors true deployment. The single-step figure is reported for reference 
 
 ---
 
+
 ## Project structure
 
 ```
@@ -162,3 +163,19 @@ error compounding during the steep morning demand ramp.
 - **FastAPI** — async REST framework with automatic interactive documentation.
 - **Chart.js** — lightweight, dependency-free charting for the single-page dashboard.
 - **Docker** — single-container packaging for reproducible deployment.
+
+  ## Screenshots
+
+### Interactive Dashboard — 24-Hour Forecast vs Actual
+![Dashboard](docs/screenshots/Forecast1.png)
+
+### Forecast vs Actual — Detail
+![Forecast detail](docs/screenshots/forecast2.png)
+
+### Analysis
+![Analysis](docs/screenshots/forecast3.png) 
+
+
+**🔗 Live Demo:** [abhinaviiitnr-apu-load-forecasting.hf.space](https://abhinaviiitnr-apu-load-forecasting.hf.space)
+
+**📦 Repository:** [github.com/abhinaviiitnr/apu-load-forecasting](https://github.com/abhinaviiitnr/apu-load-forecasting)
